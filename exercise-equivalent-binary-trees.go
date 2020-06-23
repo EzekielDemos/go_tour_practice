@@ -1,4 +1,5 @@
 /*
+Exercise: Equivalent Binary Trees
 From:
 https://tour.golang.org/concurrency/7
 https://tour.golang.org/concurrency/8

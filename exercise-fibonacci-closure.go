@@ -1,6 +1,6 @@
 /*
-From:
-https://tour.golang.org/moretypes/26
+Exercise: Fibonacci closure
+From: https://tour.golang.org/moretypes/26
 */
 package main
 

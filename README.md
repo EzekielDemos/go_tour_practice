@@ -1,2 +1,1 @@
-# go_tour_practice
-https://tour.golang.org/ practice
+the https://tour.golang.org/ practice
